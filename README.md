@@ -65,6 +65,7 @@
         alt="clojure"
         width="40" height="40" />
 </p>
+
 <h4>Front end</h4>
 <p align="left">
     <img
@@ -99,6 +100,7 @@
         alt="flutter"
         width="40" height="40" />
 </p>
+ 
 <h4>Backend</h4>
 <p align="left">
     <img
