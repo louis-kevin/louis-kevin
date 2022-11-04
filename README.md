@@ -54,6 +54,9 @@
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/dart.svg"
         width="40" height="40" />
+    <img
+        src="https://github.com/railwayapp/devicons/blob/main/static/i/clojure.svg"
+        width="40" height="40" />
 </p>
 <h4>Front end</h4>
 <p align="left">
