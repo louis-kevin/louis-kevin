@@ -40,106 +40,139 @@
 
 <h4>Languages</h4>
 <p align="left">
-    <img src="https://github.com/railwayapp/devicons/blob/main/static/i/php.svg"
+    <img 
+        src="https://github.com/railwayapp/devicons/blob/main/static/i/php.svg"
+        alt="php"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/ruby.svg"
+        alt="ruby"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/python.svg"
+        alt="python"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/javascript.svg"
+        alt="javascript"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/dart.svg"
+        alt="dart"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/clojure.svg"
+        alt="clojure"
         width="40" height="40" />
 </p>
 <h4>Front end</h4>
 <p align="left">
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/vuejs.svg"
+        alt="vuejs"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/react.svg"
+        alt="react"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/jquery.svg"
+        alt="jquery"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/bootstrap.svg"
+        alt="bootstrap"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/css3.svg"
+        alt="css3"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/postman.svg"
+        alt="postman"
         width="40" height="40" />
 </p>
 <h4>Mobile</h4>
 <p align="left">
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/flutter.svg"
+        alt="flutter"
         width="40" height="40" />
 </p>
 <h4>Backend</h4>
 <p align="left">
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/laravel.svg"
+        alt="laravel"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/nodejs.svg"
+        alt="nodejs"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/rails.svg"
+        alt="rails"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/redis.svg"
+        alt="redis"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/firebase.svg"
+        alt="firebase"
         width="40" height="40" />
 </p>
 <h4>Database</h4>
 <p align="left">
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/postgresql.svg"
+        alt="postgresql"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/mysql.svg"
+        alt="mysql"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/mongodb.svg"
+        alt="mongodb"
         width="40" height="40" />
 </p>
 <h4>Infraestructure</h4>
 <p align="left">
-    <img src="https://github.com/railwayapp/devicons/blob/main/static/i/aws.svg"
+    <img 
+        src="https://github.com/railwayapp/devicons/blob/main/static/i/aws.svg"
+        alt="aws"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/docker.svg"
+        alt="docker"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/googlecloud.svg"
+        alt="googlecloud"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/heroku.svg"
+        alt="heroku"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/nginx.svg"
+        alt="nginx"
         width="40" height="40" />
     <img
         src="https://github.com/railwayapp/devicons/blob/main/static/i/kubernetes.svg"
+        alt="kubernetes"
         width="40" height="40" />
 </p>
 <h4>Others</h4>
 <p align="left">
-    <img src="https://github.com/railwayapp/devicons/blob/main/static/i/git.svg"
+    <img 
+        src="https://github.com/railwayapp/devicons/blob/main/static/i/git.svg"
+        alt="git"
         width="40" height="40" />
-    <img src="https://github.com/railwayapp/devicons/blob/main/static/i/npm.svg"
+    <img 
+        src="https://github.com/railwayapp/devicons/blob/main/static/i/npm.svg"
+        alt="npm"
         width="40" height="40" />
 </p>
 
