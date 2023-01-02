@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kevin Louis</h1>
 <br>
+ <img src="https://komarev.com/ghpvc/?username=louis-kevin&color=ff79c6&style=for-the-badge" alt="louis-kevin" />
+ <br>
 📫 How to reach me <b>kevinlouis.dev@gmail.com</b>
- <img src="https://komarev.com/ghpvc/?username=louis-kevin&label=Profile%20views&color=0e75b6&style=flat" alt="louis-kevin" />
  
 <h3>Statistical Data :</h3>
 <p>
@@ -12,17 +13,15 @@
 </p>
 <p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=louis-kevin&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=php,html&langs_count=10"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=louis-kevin&layout=compact&hide=php,html&langs_count=10&title_color=ff79c6&bg_color=282a36&text_color=ffffff&hide_border=true"
         alt="louis-kevin"
         bg_color=#808080/>
+ <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=louis-kevin&hide_rank=true&count_private=true&line_height=28&card_width=307&show_icons=true&title_color=ff79c6&bg_color=282a36&text_color=ffffff&hide_border=true"
+        alt="louis-kevin" />    
 </p>
 <p>
-        <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=louis-kevin&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-        alt="louis-kevin" />    
-        <img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=louis-kevin&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
-        alt="adam-pw" />
+        
 </p>
 
 
