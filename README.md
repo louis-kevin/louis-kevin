@@ -6,6 +6,12 @@
 <h3>Statistical Data :</h3>
 <p>
     <img align="center"
+        src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&row=1&column=6&no-frame=true"
+        alt="louis-kevin"
+        bg_color=#808080/>
+</p>
+<p>
+    <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=louis-kevin&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=php,html&langs_count=10"
         alt="louis-kevin"
         bg_color=#808080/>
