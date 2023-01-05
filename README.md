@@ -13,7 +13,7 @@
 </p>
 <p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=louis-kevin&layout=compact&hide=php,html&langs_count=10&title_color=ff79c6&bg_color=282a36&text_color=ffffff&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=louis-kevin&layout=compact&hide=php,objective-c,kotlin,swift,java,html&langs_count=20&title_color=ff79c6&bg_color=282a36&text_color=ffffff&hide_border=true"
         alt="louis-kevin"
         bg_color=#808080/>
  <img align="center"
